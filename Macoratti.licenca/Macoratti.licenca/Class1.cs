@@ -9,5 +9,8 @@ namespace Macoratti.licenca
     public class TipoDeLicenca
     {
         public string TRIAL { get; set; }
+        public string AVALIAÇÃO { get; set; }
+        public string LIBERADO { get; set; }
+             
     }
 }
