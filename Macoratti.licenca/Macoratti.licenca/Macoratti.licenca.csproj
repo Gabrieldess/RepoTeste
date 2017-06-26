@@ -106,7 +106,8 @@
     <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="InfoLicenca.cs" />
+    <Compile Include="TipoDeLicenca.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Macoratti.licenca.rd.xml" />
   </ItemGroup>
